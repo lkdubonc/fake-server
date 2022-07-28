@@ -1,0 +1,180 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "email": "admin@gmail.com",
+            "password": "clave1"
+        },
+        {
+            "id": 2,
+            "email": "juan@gmail.com",
+            "password": "clave2"
+        },
+        {
+            "id": 3,
+            "email": "pedro@gmail.com",
+            "password": "clave3"
+        },
+        {
+            "id": 4,
+            "email": "maria@gmail.com",
+            "password": "clave4"
+        },
+        {
+            "id": 5,
+            "email": "isabel@gmail.com",
+            "password": "clave5"
+        }
+    ],
+    "empresas": [
+        {
+            "id": 1,
+            "nombre": "Claro",
+            "fechaInicio": "01/01/2001",
+            "horaInicio": "01:00",
+            "direccion": "Zona 1"
+        },
+        {
+            "id": 2,
+            "nombre": "Tigo",
+            "fechaInicio": "02/02/2002",
+            "horaInicio": "02:00",
+            "direccion": "Zona 2"
+        },
+        {
+            "id": 3,
+            "nombre": "Microsoft",
+            "fechaInicio": "03/03/2003",
+            "horaInicio": "03:00",
+            "direccion": "Zona 3"
+        },
+        {
+            "id": 4,
+            "nombre": "Apple",
+            "fechaInicio": "05/05/2005",
+            "horaInicio": "05:00",
+            "direccion": "Zona 5"
+        },
+        {
+            "id": 5,
+            "nombre": "IBM",
+            "fechaInicio": "06/06/2006",
+            "horaInicio": "06:00",
+            "direccion": "Zona 6"
+        }
+    ],
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "Marcela",
+            "apellido": "Mazariegos",
+            "email": "marcela@correo.com",
+            "direccion": "Zona 1",
+            "empresa": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Veronica",
+            "apellido": "Guamuch",
+            "email": "veronica@correo.com",
+            "direccion": "Zona 2",
+            "empresa": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Danny",
+            "apellido": "Sosa",
+            "email": "danny@correo.com",
+            "direccion": "Zona 3",
+            "empresa": 3
+        },
+        {
+            "id": 4,
+            "nombre": "Javier",
+            "apellido": "Gonzalez",
+            "email": "javier@correo.com",
+            "direccion": "Zona 4",
+            "empresa": 4
+        },
+        {
+            "id": 5,
+            "nombre": "Lesly",
+            "apellido": "Dubon",
+            "email": "lesly@correo.com",
+            "direccion": "Zona 5",
+            "empresa": 5
+        }
+    ],
+    "telefonos": [
+        {
+            "id": 1,
+            "tipo": "casa",
+            "pais": "Guatemala",
+            "numero": 11111111,
+            "empleado": 1
+        },
+        {
+            "id": 2,
+            "tipo": "celular",
+            "pais": "Guatemala",
+            "numero": 22222222,
+            "empleado": 2
+        },
+        {
+            "id": 3,
+            "tipo": "celular",
+            "pais": "Guatemala",
+            "numero": 33333333,
+            "empleado": 3
+        },
+        {
+            "id": 4,
+            "tipo": "trabajo",
+            "pais": "Guatemala",
+            "numero": 44444444,
+            "empleado": 4
+        },
+        {
+            "id": 5,
+            "tipo": "trabajo",
+            "pais": "Guatemala",
+            "numero": 55555555,
+            "empleado": 5
+        },
+        {
+            "id": 6,
+            "tipo": "trabajo",
+            "pais": "Guatemala",
+            "numero": 66666666,
+            "empleado": 1
+        },
+        {
+            "id": 7,
+            "tipo": "casa",
+            "pais": "Guatemala",
+            "numero": 77777777,
+            "empleado": 2
+        },
+        {
+            "id": 8,
+            "tipo": "casa",
+            "pais": "Guatemala",
+            "numero": 88888888,
+            "empleado": 3
+        },
+        {
+            "id": 9,
+            "tipo": "casa",
+            "pais": "Guatemala",
+            "numero": 99999999,
+            "empleado": 4
+        },
+        {
+            "id": 10,
+            "tipo": "casa",
+            "pais": "Guatemala",
+            "numero": 10101010,
+            "empleado": 1
+        }
+    ]
+}
