@@ -31,35 +31,35 @@
             "id": 1,
             "nombre": "Claro",
             "fechaInicio": "01/01/2001",
-            "horaInicio": "01:00",
+            "horaInicio": "1:00 AM",
             "direccion": "Zona 1"
         },
         {
             "id": 2,
             "nombre": "Tigo",
             "fechaInicio": "02/02/2002",
-            "horaInicio": "02:00",
+            "horaInicio": "2:00 AM",
             "direccion": "Zona 2"
         },
         {
             "id": 3,
             "nombre": "Microsoft",
             "fechaInicio": "03/03/2003",
-            "horaInicio": "03:00",
+            "horaInicio": "3:00 AM",
             "direccion": "Zona 3"
         },
         {
             "id": 4,
             "nombre": "Apple",
             "fechaInicio": "05/05/2005",
-            "horaInicio": "05:00",
+            "horaInicio": "5:00 AM",
             "direccion": "Zona 5"
         },
         {
             "id": 5,
             "nombre": "IBM",
             "fechaInicio": "06/06/2006",
-            "horaInicio": "06:00",
+            "horaInicio": "6:00 AM",
             "direccion": "Zona 6"
         }
     ],
